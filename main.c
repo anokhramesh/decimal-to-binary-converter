@@ -1,3 +1,4 @@
+// convert an integer decimal number to binary in C programming
 #include <stdio.h>
 #include <stdlib.h>
 int main()
