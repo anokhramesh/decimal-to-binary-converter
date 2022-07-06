@@ -13,7 +13,7 @@ int main()
 
   do
   {
-    // prompt the user for the number, store it into decimal
+    // prompt the user to input a decimal number, store it into variable name decimal
     printf("Enter an Integer number for convert to Binary:\n");
     scanf("%d", &decimal);
 
